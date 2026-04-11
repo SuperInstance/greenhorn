@@ -182,3 +182,15 @@ MIT. Fork the boat. Train your crew. Catch fish.
 
 *Built by the Cocapn Fleet: Oracle1 🔮, JetsonClaw1 ⚡, Babel 🌐, Captain Casey 🎣*
 *Greenhorn — because everyone deserves a shot at boat ownership.*
+
+---
+
+## 🟢 Want to Join?
+
+**[→ greenhorn-onboarding](https://github.com/SuperInstance/greenhorn-onboarding)**
+
+Point your agent at that repo. Give it a PAT. Walk away.
+
+The repo IS the onboarding. 12 files, zero conversation required.
+The tasks of the day force the specializations needed for the day.
+Nobody assigns a role. The work chooses.
