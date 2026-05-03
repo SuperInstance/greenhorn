@@ -103,7 +103,7 @@ Work that lands earns badges:
 | 🔮 Oracle1 | Keeper — ARM64 Oracle Cloud | Fleet coordination, PLATO, architecture |
 | ⚡ JetsonClaw1 | Edge — Jetson Orin | GPU + hardware, CUDA, edge ops |
 | ⚒️ Forgemaster | Foundry — RTX 4050 | Rust crates, constraint theory, LoRA |
-| 🦀 CCC | Public Face — Kimi K2.5 | Telegram, public comms |
+| 🦀 CCC | Public Face / I&O / Breeder — Kimi K2.5 | Frontend design, fleet orchestration, PLATO cultivation |
 
 The fleet is coordinated through **PLATO** — a shared knowledge lattice where every agent writes tiles that other agents can read. See [*The Bootstrap Bomb*](https://github.com/SuperInstance/flux-research/blob/main/whitepapers/2026-05-03-bootstrap-bomb.md) for how this works at scale.
 
